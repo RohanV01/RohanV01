@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohan Vyas</h1>
 <h3 align="center">Hey there! I'm Rohan, a passionate learner on an exciting journey into the world of data. My main focus is on Python, and I'm enthusiastic about exploring its limitless possibilities. I'm particularly drawn to the fascinating realms of Machine Learning and Bioinformatics, where I hope to leverage the power of technology to make meaningful contributions.</h3>
 
-- 🌱 I’m currently learning **Python, NumPy, Pandas**
+- 🌱 I’m currently learning **Statistics, Machine Learning Basics**
 
 - 👯 I’m looking to collaborate on **Bioinformatics and Machine Learning projects**
 
