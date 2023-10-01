@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Bioinformatics and Machine Learning projects**
 
-- 📫 How to reach me **rohanvyas661@gmail.com**
+- 📫 How to reach me **connect@rohanvyas.in**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1JgG462eHBmfd4DYqkAcdizSnQeSf-PpR/view?usp=drive_link](https://drive.google.com/file/d/1JgG462eHBmfd4DYqkAcdizSnQeSf-PpR/view?usp=drive_link)
 
