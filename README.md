@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Data Analysis/Data Modelling Prokects**
 
-- 📫 How to reach me **connect@rohanvyas.in**
+- 📫 How to reach me **rohanvyas661@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
